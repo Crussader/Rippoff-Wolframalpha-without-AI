@@ -4,4 +4,5 @@ Will be Adding new codes now and then
 Dependencies:\
 	-Sympy\
 	-re\
-	-operator
+	-operator\
+	-Math
